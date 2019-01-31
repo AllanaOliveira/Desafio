@@ -1,11 +1,11 @@
 # Desafio
 O objetivo é o cálculo do CR dos alunos e a média de CR dos cursos
 
--*Linguagem utilizada:
+-Linguagem utilizada:
 -
 Python3 com Orientação a Objetos
 
--*Classes definidas:
+-Classes definidas:
 -
 Cria, Aluno, MenuCR, Curso, MenuCurso
 
